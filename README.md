@@ -47,3 +47,5 @@ Contributions are always welcome!
 
 ## Other
 - Loss of staff scenarios
+- Civil unrest
+- Political/law enforcement disruption
